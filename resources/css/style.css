@@ -3,8 +3,8 @@ body {
   text-align: center;
 }
 
-.header,.separator {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+.header, .separator {
+  background-image: url("../building.png");
   color: white;
 }
 
@@ -33,7 +33,7 @@ h3, .separator {
   text-align: left;
 }
 
-.link {
+.links {
   font-size: 18px;
   color: white;
 }
